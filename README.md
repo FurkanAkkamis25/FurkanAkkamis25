@@ -35,7 +35,7 @@ contact:    furkanakkamis77@gmail.com
 | **☁️ Cloud & IaC** | <img src="https://skillicons.dev/icons?i=aws,azure,terraform" height="40" /> |
 | **🐳 Containers & Orchestration** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="40" /> |
 | **🔄 CI/CD & Monitoring** | <img src="https://skillicons.dev/icons?i=githubactions,git,grafana" height="40" /> |
-| **🐧 OS & Scripting** | <img src="https://skillicons.dev/icons?i=linux,bash" height="40" /> |
+| **🐧 OS & Scripting** | <img src="https://skillicons.dev/icons?i=linux,bash,apple" height="40" /> |
 | **💻 Languages** | <img src="https://skillicons.dev/icons?i=python,java,cs" height="40" /> |
 
 ---
