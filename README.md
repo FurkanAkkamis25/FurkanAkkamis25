@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Furkan%20Akkamış&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20Türkiye%20🇹🇷&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://www.trgdatacenters.com/wp-content/uploads/2022/10/shutterstock_495697993-1920x1080.jpg" alt="Data Center Banner"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Furkan%20Akkamış&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=45&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20Türkiye%20🇹🇷&descAlignY=68&descSize=20"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=DevOps+%26+Cloud+Engineer+☁️;Kubernetes+%7C+Docker+%7C+Terraform;AWS+%7C+Azure+%7C+Grafana;Infrastructure+as+Code+Enthusiast+🔧;Always+Automating%2C+Always+Scaling+🚀)](https://git.io/typing-svg)
 
