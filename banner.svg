@@ -1,21 +1,21 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#0f0c29"/>
-      <stop offset="50%"  stop-color="#302b63"/>
-      <stop offset="100%" stop-color="#24243e"/>
+      <stop offset="0%"   stop-color="#1d4ed8"/>
+      <stop offset="50%"  stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#db2777"/>
     </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="45%">
-      <stop offset="0%"   stop-color="#4a1fa8" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#0f0c29" stop-opacity="0"/>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
     <style>
-      .ln { stroke: #7b5ea7; stroke-width: 1.5; fill: none; stroke-dasharray: 6 4; }
+      .ln { stroke: rgba(255,255,255,0.35); stroke-width: 1.5; fill: none; stroke-dasharray: 6 4; }
       .a1 { animation: dash 4s linear infinite; }
       .a2 { animation: dash 6s linear infinite; animation-delay: -2s; }
       .a3 { animation: dash 5s linear infinite; animation-delay: -1s; }
       @keyframes dash { to { stroke-dashoffset: -200; } }
-      .nd { fill: #a78bfa; }
+      .nd { fill: rgba(255,255,255,0.8); }
       .p1 { animation: pulse 3s ease-in-out infinite; }
       .p2 { animation: pulse 3s ease-in-out infinite; animation-delay: -1s; }
       .p3 { animation: pulse 3s ease-in-out infinite; animation-delay: -2s; }
@@ -76,14 +76,14 @@
         font-family="Arial Black, Arial, sans-serif"
         font-weight="900"
         font-size="66"
-        fill="#f0abfc"
+        fill="#ffffff"
         text-anchor="middle">Furkan Akkamış</text>
 
   <!-- Title -->
   <text x="600" y="205"
         font-family="Courier New, monospace"
         font-size="19"
-        fill="#c4b5fd"
+        fill="rgba(255,255,255,0.75)"
         letter-spacing="9"
         text-anchor="middle">DEVOPS &amp; CLOUD ENGINEER</text>
 </svg>
