@@ -1,8 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Furkan%20Akkamış&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20Türkiye%20🇹🇷&descAlignY=58&descSize=20"/>
+<h1>👋 Hi, I'm Furkan Akkamış</h1>
+<h3>☁️ DevOps & Cloud Engineer &nbsp;|&nbsp; 🇹🇷 Türkiye</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=DevOps+%26+Cloud+Engineer+☁️;Kubernetes+%7C+Docker+%7C+Terraform;AWS+%7C+Azure+%7C+Grafana;Infrastructure+as+Code+Enthusiast+🔧;Always+Automating%2C+Always+Scaling+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=DevOps+%26+Cloud+Engineer+☁️;Kubernetes+%7C+Docker+%7C+Terraform;AWS+%7C+Azure+%7C+Grafana;Infrastructure+as+Code+Enthusiast+🔧;Always+Automating%2C+Always+Scaling+🚀)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=furkanakkamis25&label=Profile+views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
@@ -90,4 +91,6 @@ contact:    furkanakkamis77@gmail.com
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+⭐" alt="footer"/>
+</div>
