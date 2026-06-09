@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="header.svg" alt="Furkan Akkamış - DevOps & Cloud Engineer"/>
+<img width="100%" src="https://raw.githubusercontent.com/FurkanAkkamis25/FurkanAkkamis25/main/profile-header.svg" alt="Furkan Akkamış - DevOps & Cloud Engineer"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=DevOps+%26+Cloud+Engineer+☁️;Kubernetes+%7C+Docker+%7C+Terraform;AWS+%7C+Azure+%7C+Grafana;Infrastructure+as+Code+Enthusiast+🔧;Always+Automating%2C+Always+Scaling+🚀)](https://git.io/typing-svg)
 
