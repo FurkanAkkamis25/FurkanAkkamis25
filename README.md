@@ -69,8 +69,12 @@ contact:    furkanakkamis77@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furkanakkamis25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanakkamis25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=furkanakkamis25&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furkanakkamis25&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furkanakkamis25&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -92,5 +96,5 @@ contact:    furkanakkamis77@gmail.com
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+⭐" alt="footer"/>
+  <sub>⭐ Thanks for visiting my profile!</sub>
 </div>
