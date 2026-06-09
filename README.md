@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Furkan%20Akkamış&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Türkiye%20🇹🇷&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Furkan%20Akkamış&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20Türkiye%20🇹🇷&descAlignY=58&descSize=20"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Passionate+Software+Engineer+🚀;Full+Stack+Developer+in+Progress;Cloud+%26+Linux+Enthusiast+☁️;Always+Learning%2C+Always+Building+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=DevOps+%26+Cloud+Engineer+☁️;Kubernetes+%7C+Docker+%7C+Terraform;AWS+%7C+Azure+%7C+Grafana;Infrastructure+as+Code+Enthusiast+🔧;Always+Automating%2C+Always+Scaling+🚀)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=furkanakkamis25&label=Profile+views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
@@ -13,15 +13,17 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name:     Furkan Akkamış
-location: Türkiye 🇹🇷
-role:     Software Engineer
-building: A web application
-learning:
-  - Networking
-  - Linux
-  - Cloud (AWS)
-contact:  furkanakkamis77@gmail.com
+name:       Furkan Akkamış
+location:   Türkiye 🇹🇷
+role:       DevOps & Cloud Engineer
+focus:
+  - Container Orchestration  (Kubernetes, Docker, Helm)
+  - Infrastructure as Code   (Terraform)
+  - Cloud Platforms          (AWS, Azure)
+  - Observability            (Grafana)
+  - CI/CD Pipelines
+  - Linux & Networking
+contact:    furkanakkamis77@gmail.com
 ```
 
 ---
@@ -30,23 +32,34 @@ contact:  furkanakkamis77@gmail.com
 
 <div align="center">
 
-### Languages
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🔄 CI/CD & Version Control
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 🐧 OS & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-### Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
