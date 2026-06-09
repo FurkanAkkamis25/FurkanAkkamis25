@@ -71,14 +71,7 @@ contact:    furkanakkamis77@gmail.com
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=furkanakkamis25&theme=tokyonight"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furkanakkamis25&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furkanakkamis25&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanakkamis25&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanakkamis25&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
