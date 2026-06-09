@@ -30,27 +30,13 @@ contact:    furkanakkamis77@gmail.com
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-</div>
+| Kategori | Teknolojiler |
+|:---|:---|
+| **☁️ Cloud & IaC** | <img src="https://skillicons.dev/icons?i=aws,azure,terraform" height="40" /> |
+| **🐳 Containers & Orchestration** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="40" /> |
+| **🔄 CI/CD & Monitoring** | <img src="https://skillicons.dev/icons?i=githubactions,git,grafana" height="40" /> |
+| **🐧 OS & Scripting** | <img src="https://skillicons.dev/icons?i=linux,bash" height="40" /> |
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=python,java,cs" height="40" /> |
 
 ---
 
